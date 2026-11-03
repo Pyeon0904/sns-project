@@ -1,12 +1,7 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-
-  return (
-    <>
-      sns project
-    </>
-  )
+  return <div className="text-2xl font-bold underline">sns project</div>;
 }
 
-export default App
+export default App;
